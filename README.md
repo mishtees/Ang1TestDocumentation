@@ -25,7 +25,7 @@ All tests in scope will include the combat mechanics, combat state transitions, 
 The tests will not cover changing the internal implementation of the Ren'Py engine or testing cross-platform implementation. The purpose of these tests is not for optimization as of yet.
 
 **Test Approach**
-The game will primarily be using Manual testing to reflect the nature of the interactive, story-based game. Testing will focus on state transitions, unreliable automation, and overall player actions, both those within expectation and edge cases.
+The game will leverage Manual testing to reflect the nature of the interactive, story-based game. Testing will focus on state transitions, unreliable automation, and overall player actions, both those within expectation and edge cases.
 
 Automated testing will be implemented in the future for combat calculations and minigame scoring logic.
 
@@ -56,4 +56,4 @@ The documentation will focus on keeping a record over time, and therefore is not
 
 This plan will be updated as new features or bugs arise.
 
-**Prepares By**: Mishtee Shaw.
+**Prepared By**: Mishtee Shaw.
