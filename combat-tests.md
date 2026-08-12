@@ -52,4 +52,4 @@
 |---|---|---|---|---|---|
 | CMB-023 | Game State Switches to cutscene after battle | 1. Defeat the enemy in combat 2. Exit combat 3. Observe cutscene | "Record 4" Cutscene should play automatically after defeating the enemy | Cutscene plays successfully | Pass |
 |---|---|---|---|---|---|
-| CMB-026 | Story returns to proper state after cutscene is finished | 1. Exit combat 3. Observe the act number | Once exiting the boss fight with Angel, the act should be 3 | Act properly progresses to 3 | Pass |
+| CMB-024 | Story returns to proper state after cutscene is finished | 1. Exit combat 3. Observe the act number | Once exiting the boss fight with Angel, the act should be 3 | Act properly progresses to 3 | Pass |
