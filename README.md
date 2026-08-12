@@ -1,6 +1,13 @@
 # Ang1TestDocumentation
 This repository is for testing documentation on the main features of Angel, as well as compiling future bugs/logic issues that beta testers bring to attention.
 
+**QA Test Summary**
+Test cases executed: 42
+Passed: 38
+Failed: 4
+Defects identified: 4
+Systems tested: Combat, minigames, save/load, gameplay state transitions
+
 **Game Overview**
 Engine: Ren'Py (Python)
 Genre: Psychological horror combining classic visual novel with turn-based combat and minigames.
